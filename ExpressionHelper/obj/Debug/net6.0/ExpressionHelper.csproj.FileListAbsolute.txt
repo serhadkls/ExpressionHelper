@@ -1,0 +1,12 @@
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/bin/Debug/net6.0/ExpressionHelper.deps.json
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/bin/Debug/net6.0/ExpressionHelper.dll
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/bin/Debug/net6.0/ExpressionHelper.pdb
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/obj/Debug/net6.0/ExpressionHelper.csproj.AssemblyReference.cache
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/obj/Debug/net6.0/ExpressionHelper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/obj/Debug/net6.0/ExpressionHelper.AssemblyInfoInputs.cache
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/obj/Debug/net6.0/ExpressionHelper.AssemblyInfo.cs
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/obj/Debug/net6.0/ExpressionHelper.csproj.CoreCompileInputs.cache
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/obj/Debug/net6.0/ExpressionHelper.dll
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/obj/Debug/net6.0/refint/ExpressionHelper.dll
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/obj/Debug/net6.0/ExpressionHelper.pdb
+/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelper/obj/Debug/net6.0/ref/ExpressionHelper.dll

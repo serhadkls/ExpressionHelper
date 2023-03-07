@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0a48e92_002D004a_002D459f_002Dae9a_002Dceb59909780b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::83468656-6886-4B93-B3B2-A0337D711DC8::net6.0::ExpressionHelperUnitTest.ExpressionHelperTestFixture.GetExpressionWhenEnumValue&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;Project Location="/Users/vivense/Documents/Pers/ExpressionHelper/ExpressionHelperUnitTest" Presentation="&amp;lt;ExpressionHelperUnitTest&amp;gt;" /&gt;
+    &lt;Namespace&gt;ExpressionHelperUnitTest&lt;/Namespace&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionHelper", "ExpressionHelper\ExpressionHelper.csproj", "{309AD90D-4858-4E11-9407-CC39B639C42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionHelperUnitTest", "ExpressionHelperUnitTest\ExpressionHelperUnitTest.csproj", "{83468656-6886-4B93-B3B2-A0337D711DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309AD90D-4858-4E11-9407-CC39B639C42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309AD90D-4858-4E11-9407-CC39B639C42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309AD90D-4858-4E11-9407-CC39B639C42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309AD90D-4858-4E11-9407-CC39B639C42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83468656-6886-4B93-B3B2-A0337D711DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83468656-6886-4B93-B3B2-A0337D711DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83468656-6886-4B93-B3B2-A0337D711DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83468656-6886-4B93-B3B2-A0337D711DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
